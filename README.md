@@ -1,1 +1,1 @@
-# php-type-check-helper
+# php-type-helper
